@@ -1,6 +1,6 @@
 # Word Pyramid App With Flutter (Türkçe)
 
-[https://i.hizliresim.com/wj7hiI.png]
+(image)[https://i.hizliresim.com/wj7hiI.png]
 
 A new Flutter project.
 
